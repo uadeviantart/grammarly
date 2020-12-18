@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/defrindr/grammarly#readme",
   "dependencies": {
-    "@defrindr/brainly-scraper": "^1.0.0",
+    "@defrindr/brainly-scraper": "^1.0.3",
     "request": "^2.88.2",
     "request-promise": "^4.2.5"
   },
